@@ -1,0 +1,11 @@
+<project author="darkbull" blog="http://darkbull.net">
+  <node name="networking" isDir="True" isExpand="True">
+    <node name="bin_save.cpp" isDir="False" isExpand="False" />
+    <node name="client.cpp" isDir="False" isExpand="False" />
+    <node name="fire.cmd" isDir="False" isExpand="False" />
+    <node name="fire.cpp" isDir="False" isExpand="False" />
+    <node name="fire.ps1" isDir="False" isExpand="False" />
+    <node name="makefile" isDir="False" isExpand="False" />
+    <node name="server.cpp" isDir="False" isExpand="False" />
+  </node>
+</project>

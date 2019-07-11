@@ -1,0 +1,1 @@
+Netsh.exe advfirewall firewall add rule name="server" program=C:\Work_Station\temp\networking\server.exe protocol=tcp dir=in enable=yes action=allow localport=55555
